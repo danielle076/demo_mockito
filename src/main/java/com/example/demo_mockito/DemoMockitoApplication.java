@@ -9,5 +9,4 @@ public class DemoMockitoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoMockitoApplication.class, args);
 	}
-
 }
